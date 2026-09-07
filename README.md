@@ -1,2 +1,4 @@
-# random-gaming-tools
-A collection of random gaming tools, experiments, and useful projects I make for fun. I'm not a professional developer—I use AI to help write and improve my code, but I have enough knowledge to understand how it works. I may not understand every line yet, but I'm learning by building. 🎮
+# Sense.Conver
+A simple FPS sensitivity converter that helps you find equivalent sensitivity settings between different games while keeping your mouse movement consistent.
+
+Enter your current game, target game, sensitivity, and DPI, and the tool calculates the converted sensitivity, eDPI, and approximate cm/360°. Everything updates instantly in the browser.
