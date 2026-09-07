@@ -1,3 +1,5 @@
+## 🚀 [**OPEN THE WEBSITE →**](https://lowknaksss.github.io/random-gaming-tools/)
+
 ## How It Works
 
 The converter stores each supported game's sensitivity conversion value (yaw) in JavaScript. When you choose a source game, target game, sensitivity, and DPI, the program uses those values to calculate a target sensitivity that keeps the same mouse movement / cm per 360°.
